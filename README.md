@@ -1,5 +1,3 @@
-
-
 rodrigo
 aca va mi commit ivan
 
@@ -13,3 +11,7 @@ sadjsdasadfsadsda
 
 
 ACA VA MI NOMBRE IVAN
+
+
+# practica_github
+
